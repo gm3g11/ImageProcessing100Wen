@@ -7,11 +7,9 @@
 >   * 离线阅读建议使用可以渲染$\LaTeX$公式的Markdown编辑器/阅读器，如[Typora](https://www.typora.io/)（我是用这个编写和转换PDF的）和[MWeb](https://zh.mweb.im/)。VSCode使用者建议安装[Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)插件渲染$\LaTeX$公式；
 >   * 各个README文件在完成基本校对之后会转为PDF文件。PDF文件阅读效果最佳。
 >
-> * 有签名戳`——gzr`的引用部分和脚注都是译注。译注可能会打扰大家阅读，请各位谅解。
->
-> 感谢！
->
-> ——gzr
+>   
+>  
+> 
 
 ***English is here*** (KuKuXia translates into English)
 
